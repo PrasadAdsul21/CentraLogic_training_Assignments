@@ -217,7 +217,6 @@ class Program : Inventory
                     case 6:
                         Console.WriteLine("We are ready to Exit, Have a nice day!");
                         return;
-                        break;
 
                     default:
                         Console.WriteLine("Entered Choice is Invalid! Please Enter Valid specified Choice.");

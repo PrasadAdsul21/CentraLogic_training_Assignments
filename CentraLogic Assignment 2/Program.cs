@@ -78,7 +78,6 @@
                         Console.WriteLine("Dear, User you're Exiting from Task List App :_( , Have a Nice Day ");
                         return;
                         Console.WriteLine();
-                        break;
 
                     default:
                         Console.WriteLine("Invalid Choice");
